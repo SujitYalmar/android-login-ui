@@ -34,6 +34,7 @@ To get a local copy up and running, follow these simple steps.
     Open the cloned folder in Android Studio.
 3.  **Build and Run:**
     Sync the Gradle files and run the app on an emulator or a physical device.
+    <br/>
 
 ## 📂 Key Files
 
